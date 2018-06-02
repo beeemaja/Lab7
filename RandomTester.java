@@ -43,7 +43,7 @@ class RandomTester
                 //
             }
             for(Integer output : set){
-            System.out.print(output+",");
+            System.out.print(output+","); 
         }
         System.out.println();
         
