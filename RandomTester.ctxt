@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RandomTester
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Random\ here.\r\n\r\n\ @author\ Mayya\ Bareeva,\ Huong,\ Omar\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RandomTester()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Random\r\n
+comment2.params=n
+comment2.target=void\ drawLottery(int)
+comment2.text=\r\n\ Print\ out\ the\ numbers\ you\ want.\r\n\ @param\ n\ -\ how\ many\ rows\ of\ \ random\ numbers\ range\ must\ be\ printed\ out.\r\n\ \r\n
+comment3.params=
+comment3.target=void\ frequences()
+comment3.text=\r\n\ Expansion\r\n
+numComments=4
